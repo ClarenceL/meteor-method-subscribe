@@ -1,0 +1,10 @@
+[
+  {
+    "method": "VendorAlertsCount",
+    "session_key": "meta/vendorAlertsCount"
+  },
+  {
+    "method": "GetCommentAlertsTotalCount",
+    "session_key": "commentAlerts/countTotal"
+  }
+]
